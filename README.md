@@ -7,10 +7,10 @@ https://ieteacher--rikojoho-kari.repl.co/
 ### メンバーリスト  
 土居亮斗  
 赤田真由  
-三浦隼←Scrum master  
+三浦隼
 柴尾直紀  
 関拓己  
-西村春輝←Product Owner  
+西村春輝
 山岨寛門  
 
 ### エレベーターピッチ
@@ -23,9 +23,6 @@ https://ieteacher--rikojoho-kari.repl.co/
 [ユーザにとって重要な先行研究を容易に判別できるよう]にします。  
 
 (更新日:7/21)
-### 作業場所URL
-- [メインMiroはこちら](https://miro.com/app/board/uXjVM4W_zM4=/)
-- [チームの情報共有GoogleDocはこちら](https://drive.google.com/drive/folders/12qwP0sQS7g64rPYkWEqf_Gr8yu3Gmzsc?usp=sharing)
 
 ## 開発環境
 - Python 3.10.8
